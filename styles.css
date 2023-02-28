@@ -216,7 +216,7 @@ button:active, input#submit:active {
     justify-content: space-around;
     align-items: center;
   }
-  #nav-bar li {
+  #nav-bar li, .space {
     flex-grow: 1;
   }
   section.section-lv1::before {
